@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working at Code Empresa Júnior de Computação
-- 🌱 I’m currently learning PHP and Java
+- 🌱 I’m currently learning Java
 - 💬 Talk to me about Web Development or Software Engineering
 
 
